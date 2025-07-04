@@ -15,3 +15,7 @@
 - Uses Natural Language Processing (NLP) for text analysis
 - Utilizes a Logistic Regression model trained on real news data
 - Simple setup and clear instructions for running locally
+
+
+## Demo
+![image](https://github.com/user-attachments/assets/5ef9a4cb-11de-4bce-bdef-3104a67a45c4)
